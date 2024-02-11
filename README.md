@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielDanielDanielDanielDanielDaniel
-- 👀 I’m interested in: Programming
-- 🌱 I’m currently learning: HTML,CSS,Javascript, PowerBI, VBA, 
+- 👀 I’m interested in: Mostly front-end programming, but also a little bit back-end
+- 🌱 I’m currently learning: HTML,CSS,Javascript, PowerBI, VBA, Python
 - 😄 Name: Daniel
 - ⚡ Fun fact: I like turtles
 
