@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielDanielDanielDanielDanielDaniel
+- 👋 Hi, My name is Daniel
 - 👀 I’m interested in: Mostly front-end programming, but also a little bit back-end
 - 🌱 I’m currently learning: HTML,CSS,Javascript, PowerBI, VBA, Python
 - 😄 Name: Daniel
