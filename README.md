@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Daniel
-- 👀 I’m interested in: Mostly front-end programming, but also a little bit back-end
-- 🌱 I’m currently learning: HTML,CSS,Javascript, PowerBI, VBA, Python
+- 👀 I’m interested in: Data analytics, deep learning and machine learning
+- 🌱 I’m currently learning: Python and MySQL
 
 <!---
 DanielDanielDanielDanielDanielDaniel/DanielDanielDanielDanielDanielDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
